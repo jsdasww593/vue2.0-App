@@ -4,7 +4,7 @@
 
 #技术栈
 
- 框架:vue2.0  脚手架:vue-cli  路由:vue-router  数据交互:vue-resource  css预处理器: sass 
+ 框架:vue2.0     脚手架:vue-cli       路由:vue-router       数据交互:vue-resource      css预处理器: sass 
 
 # 项目心得
   
